@@ -1,4 +1,4 @@
-# Hand-Sign Flower Garden
+# SunFlower
 
 Grow a flower on your webcam feed using hand signs, powered by MediaPipe Hands + OpenCV.
 
